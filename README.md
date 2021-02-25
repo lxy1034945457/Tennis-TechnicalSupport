@@ -1,1 +1,5 @@
-# Tennis-TechnicalSupport
+
+这是一个可以辅助你记录网球比分的一个小工具，不需登录操作简单，体验不一样的乐趣.
+
+
+如果您有任何问题，请联系技术支持电子邮件：shenkezxc@icloud.com。谢谢你的支持。
